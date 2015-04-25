@@ -11,3 +11,6 @@ If you are outside Nepal and want to help save further lives and rebuild, this i
 * Canadian Red Cross - [Nepal Region Earthquake Fund](https://secure.redcross.ca/registrant/donate.aspx?eventid=172921&__utma=225819417.301186905.1429981740.1429981740.1429981740.1&__utmb=225819417.0.10.1429981740&__utmc=225819417&__utmx=-&__utmz=225819417.1429981740.1.1.utmcsr=%28direct%29|utmccn=%28direct%29|utmcmd=%28none%29&__utmv=-&__utmk=214954644)
 * Oxfam America - [Nepal earthquake – you can help](https://secure2.oxfamamerica.org/page/content/nepal_earthquake/)
 * GlobalGiving - [Nepal Earthquake Relief Fund](http://www.globalgiving.org/projects/nepal-earthquake-relief-fund/)
+
+
+Note: If you know other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PreyForNepal/issues/1)
