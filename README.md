@@ -13,4 +13,4 @@ If you are outside Nepal and want to help save further lives and rebuild, this i
 * GlobalGiving - [Nepal Earthquake Relief Fund](http://www.globalgiving.org/projects/nepal-earthquake-relief-fund/)
 
 
-Note: If you know other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PreyForNepal/issues/1)
+If you know other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PreyForNepal/issues/1)
