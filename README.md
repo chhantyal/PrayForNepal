@@ -6,8 +6,8 @@ On 25 April, 2015 7.9 magnitude earthquate struck Nepal which claimed thousands 
 
 If you are outside Nepal and want to help save further lives and rebuild, this is list of reliable organizations where you can donate & **be assured that your donations will reach victims**.
 
-List of reliable organizations
-------------------------------
+List of reliable organizations and link to donation page
+========================================================
 
 * British Red Cross - [Nepal Earthquake Appeal](http://www.redcross.org.uk/nepalearthquake)
 * Save The Children - [Nepal Earthquake Children's Relief Fund](http://www.savethechildren.org/site/apps/nlnet/content2.aspx?c=8rKLIXMGIpI4E&b=9241341&ct=14615143) 
