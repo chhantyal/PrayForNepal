@@ -1,6 +1,6 @@
 # Nepal Earthquake Relief Funds 2015
 
-_On 25 April, 2015 7.8 magnitude earthquate struck Nepal_ which claimed thousands of lives, damaged houses, ruined infrastrucutres and devastated the entire country.
+On 25 April, 2015 _7.8 magnitude earthquate struck Nepal_ which claimed thousands of lives, damaged houses, ruined infrastrucutres and devastated the entire country.
 
 **Nepal needs your help!**
 
