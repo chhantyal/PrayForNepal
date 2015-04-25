@@ -15,6 +15,7 @@ Canadian Red Cross         | [Nepal Region Earthquake Fund](https://secure.redcr
 Oxfam America              | [Nepal earthquake - you can help](https://secure2.oxfamamerica.org/page/content/nepal_earthquake/)
 GlobalGiving               | [Nepal Earthquake Relief Fund](http://www.globalgiving.org/projects/nepal-earthquake-relief-fund/)
 Aktion Deutschland Hilft   | [Nepal Earthquake](https://www.spendenkonto-nothilfe.de/)
+UNICEF                     | [Help Children in Nepal - earthquake response](http://www.supportunicef.org/site/c.dvKUI9OWInJ6H/b.9274583/k.FBFF/Help_Children_in_Nepal_Donate_for_earthquake_response.htm)
 
 
 If you know any other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PreyForNepal/issues/1)
