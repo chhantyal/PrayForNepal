@@ -16,4 +16,4 @@ Oxfam America              | [Nepal earthquake - you can help](https://secure2.o
 GlobalGiving               | [Nepal Earthquake Relief Fund](http://www.globalgiving.org/projects/nepal-earthquake-relief-fund/)
 
 
-If you know other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PreyForNepal/issues/1)
+If you know any other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PreyForNepal/issues/1)
