@@ -1,4 +1,4 @@
-# Nepal Earthquake Relief Funds 2015
+# Nepal Earthquake Relief Funds
 
 On 25 April, 2015 7.9 magnitude earthquate struck Nepal which claimed thousands of lives.
 
