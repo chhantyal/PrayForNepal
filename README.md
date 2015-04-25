@@ -2,8 +2,6 @@
 
 On 25 April, 2015 7.9 magnitude earthquate struck Nepal which claimed thousands of lives.
 
-**Nepal needs your help!**
-
 If you are outside Nepal and want to help save further lives and rebuild, this is list of reliable organizations where you can donate & **be assured that your donations will reach victims**.
 
 #### List of reliable organizations and link to donation page
