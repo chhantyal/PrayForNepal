@@ -9,11 +9,10 @@ If you are outside Nepal and want to help save further lives and rebuild, this i
 
 Organizations              | Link to donation page 
 :--------------------------|:----------------------
+Oxfam International        | [Nepal earthquake](https://www.oxfam.org/en/emergencies/nepal-earthquake)
 British Red Cross          | [Nepal Earthquake Appeal](http://www.redcross.org.uk/nepalearthquake)
 Save The Children          | [Nepal Earthquake Children's Relief Fund](http://www.savethechildren.org/site/apps/nlnet/content2.aspx?c=8rKLIXMGIpI4E&b=9241341&ct=14615143)
 Canadian Red Cross         | [Nepal Region Earthquake Fund](https://secure.redcross.ca/registrant/donate.aspx?eventid=172921)
-Oxfam                      | [NEPAL EARTHQUAKE RESPONSE](https://donate.oxfam.org.uk/emergency/nepal?pscid=ps_msn_Emergencies_bing_nepal_earthquake_generic)
-Oxfam America              | [Nepal earthquake - you can help](https://secure2.oxfamamerica.org/page/content/nepal_earthquake/)
 GlobalGiving               | [Nepal Earthquake Relief Fund](http://www.globalgiving.org/projects/nepal-earthquake-relief-fund/)
 Aktion Deutschland Hilft   | [Nepal Earthquake](https://www.spendenkonto-nothilfe.de/)
 UNICEF                     | [Help Children in Nepal - earthquake response](http://www.supportunicef.org/site/c.dvKUI9OWInJ6H/b.9274583/k.FBFF/Help_Children_in_Nepal_Donate_for_earthquake_response.htm)
