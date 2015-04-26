@@ -6,9 +6,12 @@ If you are outside Nepal and want to help save further lives and rebuild, this i
 
 ##### List of reliable organizations and link to donation page
 
+Please note, Nepal Red Cross donation page is not working properly. If you donate to [International Federation of Red Cross](https://www.ifrc.org/en/news-and-media/news-stories/asia-pacific/nepal/earthquake-in-nepal-68486/), funds will go to Nepal Red Cross.
+
 
 Organizations              | Link to donation page 
 :--------------------------|:----------------------
+Federation of Red Cross    | [Nepal earthquake](https://www.ifrc.org/en/news-and-media/news-stories/asia-pacific/nepal/earthquake-in-nepal-68486/)
 Oxfam International        | [Nepal earthquake](https://www.oxfam.org/en/emergencies/nepal-earthquake)
 British Red Cross          | [Nepal Earthquake Appeal](http://www.redcross.org.uk/nepalearthquake)
 Save The Children          | [Nepal Earthquake Children's Relief Fund](http://www.savethechildren.org/site/apps/nlnet/content2.aspx?c=8rKLIXMGIpI4E&b=9241341&ct=14615143)
