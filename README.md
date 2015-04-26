@@ -21,6 +21,7 @@ CARE                       | [HELP RELIEF EFFORTS IN NEPAL](https://my.care.org/
 PayPal Community Donate    | [PayPal Giving Fund - Nepal Earthquake](https://www.paypal-community.com/t5/PayPal-Forward/Helping-the-Victims-of-the-Nepal-Earthquake/ba-p/967501#.VTwq_q_Wq8o.twitter)
 World Vision               | [Nepal Earthquake](http://www.wvi.org/nepal-earthquake-0)
 World Food Programme       | [Help Earthquake survivors in Nepal](https://give.wfp.org/5279/?step=country)
+Samaritan's Purse          | [Nepal Earthquake Response](http://www.samaritanspurse.org/article/deadly-earthquake-in-nepal/)
 
 If you know any other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PrayForNepal/issues/1)
 
