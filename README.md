@@ -17,6 +17,6 @@ GlobalGiving               | [Nepal Earthquake Relief Fund](http://www.globalgiv
 Aktion Deutschland Hilft   | [Nepal Earthquake](https://www.spendenkonto-nothilfe.de/)
 UNICEF                     | [Help Children in Nepal - earthquake response](http://www.supportunicef.org/site/c.dvKUI9OWInJ6H/b.9274583/k.FBFF/Help_Children_in_Nepal_Donate_for_earthquake_response.htm)
 CARE                       | [HELP RELIEF EFFORTS IN NEPAL](https://my.care.org/site/Donation2?18840.donation=form1&df_id=18840)
+PayPal Community Donate  | [PayPal Giving Fund - Nepal Earthquake](https://www.paypal-community.com/t5/PayPal-Forward/Helping-the-Victims-of-the-Nepal-Earthquake/ba-p/967501#.VTwq_q_Wq8o.twitter)
 
-
-If you know any other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PreyForNepal/issues/1)
+If you know any other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PrayForNepal/issues/1)
