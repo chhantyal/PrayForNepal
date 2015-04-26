@@ -6,9 +6,6 @@ If you are outside Nepal and want to help save further lives and rebuild, this i
 
 ##### List of reliable organizations and link to donation page
 
-Please note, Nepal Red Cross donation page is not working properly. If you donate to [International Federation of Red Cross](https://www.ifrc.org/en/news-and-media/news-stories/asia-pacific/nepal/earthquake-in-nepal-68486/), funds will go to Nepal Red Cross.
-
-
 Organizations              | Link to donation page 
 :--------------------------|:----------------------
 Federation of Red Cross    | [Nepal earthquake](https://www.ifrc.org/en/news-and-media/news-stories/asia-pacific/nepal/earthquake-in-nepal-68486/)
@@ -24,6 +21,8 @@ PayPal Community Donate    | [PayPal Giving Fund - Nepal Earthquake](https://www
 World Vision               | [Nepal Earthquake](http://www.wvi.org/nepal-earthquake-0)
 World Food Programme       | [Help Earthquake survivors in Nepal](https://give.wfp.org/5279/?step=country)
 Samaritan's Purse          | [Nepal Earthquake Response](http://www.samaritanspurse.org/article/deadly-earthquake-in-nepal/)
+
+Please note, Nepal Red Cross donation page is not working properly. If you donate to [International Federation of Red Cross](https://www.ifrc.org/en/news-and-media/news-stories/asia-pacific/nepal/earthquake-in-nepal-68486/), funds will go to Nepal Red Cross.
 
 If you know any other organizations which are not included on this list, please let us know [here](https://github.com/chhantyal/PrayForNepal/issues/1)
 
